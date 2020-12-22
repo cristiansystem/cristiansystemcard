@@ -1,5 +1,7 @@
 It's me, Cristian Restrepo!
 
+<img src="/PersonalCard.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+
 # Usage
 
 ## npm
