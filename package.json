@@ -40,7 +40,10 @@
   "bugs": {
     "url": "https://github.com/bnb/bitandbang/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "each-async": "^1.1.1",
+    "indent-string": "^4.0.0"
+  },
   "publishConfig": {
     "registry": "https://npm.registry.github.com/"
   }
